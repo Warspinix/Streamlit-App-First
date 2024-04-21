@@ -7,7 +7,7 @@ def main():
     st.title("Maximum of Three Numbers")
 
     num1 = st.number_input("Enter the first number:", step=1)
-    num2 = st.number_input("Enter the second number:", step=1)
+    num2 = st.number_input("Enter the second number:", step=2)
     num3 = st.number_input("Enter the third number:", step=1)
   
     if st.button("Find Maximum"):
