@@ -1,2 +1,4 @@
 # Streamlit_Applications
-My first ever application deployed using Streamlit. It is a simple application to find the greatest of 3 numbers.
+All of my applications created and deployed using using Streamlit, put together in a single repository.
+The applications that have been developed so far are
+- Greatest of 3 Numbers
